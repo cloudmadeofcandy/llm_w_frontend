@@ -1,4 +1,5 @@
 numpy
 streamlit
 chromadb
+chromadb-client
 ollama
